@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto";
+}
+.rodape1{
+    margin-top: 50%;
+    width: 100%;
+    height: 100px;
+    background-color: #129799;
+    display: flex;
+    align-items: flex-start;
+    justify-content:flex-start
+}
+.ListRodape{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img1{
+    width: 20%;
+    margin-top: 30px;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+.img2{
+    width: 60%;
+    margin-top: 30px;
+    margin-left: 40%;
+    margin-right: 10%;
+    font-size: 18px;
+    color: #F7F7F7;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+}
+.imgFooter{
+    width: 25px;
+    height: 25px;
+}
